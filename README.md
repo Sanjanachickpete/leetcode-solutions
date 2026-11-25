@@ -50,4 +50,3 @@ gcc -std=c99 -Wall -Wextra -pedantic arrays-strings\01-two-sum.c -o "$env:TEMP\l
 & "$env:TEMP\leetcode-solutions-tests\two-sum.exe"
 ```
 
-itory.
